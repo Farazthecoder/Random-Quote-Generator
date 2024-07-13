@@ -1,2 +1,2 @@
 # Quote-Generator
-Demo Link :->  https://farazthecoder.github.io/Quotes-Generator/
+Demo Link :-> https://random-quote-generator-farazk.netlify.app/
